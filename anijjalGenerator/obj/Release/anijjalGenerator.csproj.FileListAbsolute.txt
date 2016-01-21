@@ -1,0 +1,10 @@
+e:\projects\anijjalGenerator\anijjalGenerator\bin\Release\anijjalGenerator.exe.config
+e:\projects\anijjalGenerator\anijjalGenerator\bin\Release\anijjalGenerator.exe
+e:\projects\anijjalGenerator\anijjalGenerator\bin\Release\anijjalGenerator.pdb
+e:\projects\anijjalGenerator\anijjalGenerator\bin\Release\Gif.Components.dll
+e:\projects\anijjalGenerator\anijjalGenerator\obj\Release\anijjalGenerator.frmJjalGenerator.resources
+e:\projects\anijjalGenerator\anijjalGenerator\obj\Release\anijjalGenerator.Properties.Resources.resources
+e:\projects\anijjalGenerator\anijjalGenerator\obj\Release\anijjalGenerator.csproj.GenerateResource.Cache
+e:\projects\anijjalGenerator\anijjalGenerator\obj\Release\anijjalGenerator.exe
+e:\projects\anijjalGenerator\anijjalGenerator\obj\Release\anijjalGenerator.pdb
+E:\Projects\anijjalGenerator\anijjalGenerator\obj\Release\anijjalGenerator.csprojResolveAssemblyReference.cache
